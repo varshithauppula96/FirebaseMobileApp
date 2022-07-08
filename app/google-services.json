@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746770416222",
+    "project_id": "fir-neuassignment8",
+    "storage_bucket": "fir-neuassignment8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746770416222:android:e5627a85cfea7988d1aacf",
+        "android_client_info": {
+          "package_name": "com.example.assignment8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746770416222-u45l40jl9a8p5b560kcubp79oglpnqoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wV-c-2zIzzngSAlGCw--28aH84ExhVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746770416222-u45l40jl9a8p5b560kcubp79oglpnqoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
